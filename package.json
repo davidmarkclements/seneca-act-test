@@ -1,0 +1,17 @@
+{
+  "name": "seneca-act-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "cha": "^0.2.1",
+    "chai": "^1.9.1",
+    "seneca": "^0.5.19"
+  }
+}
